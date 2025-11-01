@@ -1,7 +1,4 @@
 # Lift Ledger
-
-A minimal and easy-to-use gym logger/tracker app.
-
 ---
 
 ## Contact Info

@@ -1,6 +1,4 @@
-# Lift Ledger
 ---
-
 ## Contact Info
 __E-mail__: singh0000samrat@gmail.com
 
